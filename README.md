@@ -4,10 +4,9 @@
   Hello World! 🌍
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+I+am+Abdulrhman;Senior+Computer+Science+Student;Welcome+to+my+GitHub!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+there!+I+am+Abdulrhman;Computer+Science+Graduate;Welcome+to+my+GitHub!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
 
@@ -15,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Computer Science Student** at **Modern Academy in Cairo**.
+- 🎓 I'm a **Computer Science Graduate** at **Modern Academy in Cairo**.
 - 💡 I'm passionate about **learning new technologies** and constantly improving my programming skills.
 - 🔭 I'm currently focusing on **Web Development** and **Machine Learning**.
-- 🌱 Exploring **Python**, **C++**, **ReactJS**, **Node.js**, and **MongoDB** in depth.
+- 🌱 Exploring **Python**, **Java** ,**C++**, **ReactJS**, **Node.js**, and **MongoDB** in depth.
 - 💬 Feel free to reach out to me if you want to discuss **tech, programming, or research**.
 
 ---
